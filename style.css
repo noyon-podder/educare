@@ -11,8 +11,8 @@
   color: #fff;
   text-align: center;
 }
-.carousel-caption::before{
-  content: '';
+.carousel-caption::before {
+  content: "";
   position: absolute;
   top: 0;
   left: 0;
